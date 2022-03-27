@@ -1,0 +1,1 @@
+It's important to make sure your analysis destroys as much information as it produces.

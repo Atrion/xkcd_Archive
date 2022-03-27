@@ -1,0 +1,1 @@
+Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.
